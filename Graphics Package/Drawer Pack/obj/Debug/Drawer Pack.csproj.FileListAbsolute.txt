@@ -1,0 +1,10 @@
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\bin\Debug\Drawer Pack.exe.config
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\bin\Debug\Drawer Pack.exe
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\bin\Debug\Drawer Pack.pdb
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer Pack.csprojAssemblyReference.cache
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer_Pack.Form1.resources
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer_Pack.Properties.Resources.resources
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer Pack.csproj.GenerateResource.cache
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer Pack.csproj.CoreCompileInputs.cache
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer Pack.exe
+M:\Graphics 2022\Software Package\Drawer Pack\Drawer Pack\obj\Debug\Drawer Pack.pdb
